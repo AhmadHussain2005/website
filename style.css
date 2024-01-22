@@ -1,0 +1,14 @@
+section{
+    background: rgb(8, 6, 6);
+}
+.navbar-text a{
+  margin: 10px;
+    text-decoration: none;
+}
+.card-4{
+    display: flex;
+}
+.card-2{
+    display: flex;
+    gap: 18px;
+}
